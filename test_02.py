@@ -32,3 +32,4 @@ def main():
 
     s.close()
     print("abc")
+    print("abcd")
