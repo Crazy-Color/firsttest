@@ -31,3 +31,4 @@ def main():
             print("请重新输入命令！")
 
     s.close()
+    print("abc")
